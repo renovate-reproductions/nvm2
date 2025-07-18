@@ -5,6 +5,6 @@
   ],
   "packageRules": [{
     "matchManagers": ["*"],
-    "assignees": ["rarkins"]
+    "allowedVersions": "<20"
   }]
 }
